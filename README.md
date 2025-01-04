@@ -1,2 +1,2 @@
 # Idea4
-Primeros pasos de una app para el aprendizaje de idiomas
+Android app para la enseñanza y aprendizaje de idiomas
